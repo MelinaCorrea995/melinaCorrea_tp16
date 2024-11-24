@@ -62,3 +62,5 @@ const dhBici = {
 console.log(dhBici.aumentoBici(20))
 // console.log(dhBici.biciPorRodado(29)) // OPCIONAL 2
 // dhBici.listarTodasLasBici() //OPCIONAL 3
+
+
